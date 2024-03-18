@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omprakash Jat</h1>
+<h1 align="center">Hi 👋, I'm Omprakash Jat</h1><br/>
 <h3 align="center">Crafting seamless digital experiences from front to back end</h3>
 
 - 🔭 I’m currently working on **Node Js**
